@@ -43,8 +43,8 @@ Gradle: For Android-specific build configurations (managed by Flutter).
 🚀 Getting Started (Using the Pre-built APK)
 
 
-Go to the Releases section of this GitHub repository (if you plan to use GitHub Releases for the APK).
-Alternatively, look for the app-release.apk (or similar name) file directly in the root or a designated build/ folder of this repository.
+Go to the Releases section of this GitHub repository .
+Look for the app-release.apk (or similar name).
 Download the latest APK file to your Android device.
 
 Enable "Install from Unknown Sources":
